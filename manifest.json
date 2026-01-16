@@ -1,0 +1,10 @@
+{
+	"id": "vercel-publisher",
+	"name": "Vercel Publisher",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Publish your Obsidian notes to Vercel with one click. Export to HTML and deploy to the web instantly.",
+	"author": "Amir Andalibi",
+	"authorUrl": "https://amirandalibi.com",
+	"isDesktopOnly": false
+}
